@@ -1,4 +1,4 @@
-![O|W Logo](https://drive.google.com/open?id=0B8oWGob5Mm7AaXlfS0lNZmpEbGc)
+![O|W Logo](https://github.com/OpenWeavers/OpenWeavers.github.io/blob/master/Logo.png) 
 
 # Welcome!
 
@@ -9,4 +9,5 @@
 ### Visit our ongoing projects :
 
 * [Uptime Funk](https://github.com/OpenWeavers/UptimeFunk) 
+* [OpenAlgorithm](https://github.com/OpenWeavers/OpenAlgorithm)
 
