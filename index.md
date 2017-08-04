@@ -1,4 +1,4 @@
-![O|W Logo](https://github.com/OpenWeavers/OpenWeavers.github.io/blob/master/Logo.png) 
+!Logo](Logo.png) 
 
 # Welcome!
 
