@@ -1,5 +1,21 @@
+.bigWrapper{
+	width: 500px;
+	margin-top: 150px;
+	 overflow: hidden;
+}
+.preview{
+	 overflow: hidden;
+	 margin-right: 500px;
+}
+
+.spinnerWrapper{
+	width: 300px;
+	 float:left;
+
+}
+
 .navbar-default{
-	background-color: white;	
+	background-color: white;
 	border: none;
 	min-height: 70px;
 	margin-bottom: 0;
@@ -45,7 +61,7 @@
 	border-color: white;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border: none; 
+    border: none;
 }
 @media(max-width: 768px){
 	.navbar-nav{
