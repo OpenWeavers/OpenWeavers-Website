@@ -1,0 +1,60 @@
+.navbar-default{
+	background-color: white;	
+	border: none;
+	min-height: 70px;
+	margin-bottom: 0;
+		border-bottom: solid #00B0F0 0.5px;
+}
+.navbar-default > .container{
+/*		border-bottom: solid #00B0F0 0.5px;*/
+	min-height: 70px;
+}
+.navbar-default > div{
+	height: 70px;
+}
+.navbar-brand > img{
+	max-height: 70px;
+	width: auto;
+}
+.navbar-brand{
+	padding: 0;
+/*	padding-left: 40px;*/
+}
+/*.collapse > div.dummy{
+	float: right;
+	width: 50%;
+	display: block;
+}*/
+.navbar-default .navbar-nav > li > a{
+	color: #00B0F0;
+	text-align: center;
+	height: 70px;
+	padding: auto;
+	padding-top: 25px;
+}
+.navbar-nav{
+	height: 70px;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	background-color: #00B0F0;
+	color: white;
+	font-size: 110%;
+/*	border-bottom: solid white 0.5px;*/
+}
+.navbar-default : hover{
+	border-color: white;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none; 
+}
+@media(max-width: 768px){
+	.navbar-nav{
+		height: auto;
+	}
+	.navbar-toggle{
+		background-color: white;
+	}
+	.navbar-default  .navbar-toggle > .icon-bar{
+		background-color: #00B0F0;
+	}
+}
